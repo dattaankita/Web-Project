@@ -1,7 +1,16 @@
+
 h1 {
     color: black;
     text-align: center;
 }
 body {
-     background-color: lightblue;
+     	background-color: lightblue;
+  	
+  	
+}
+button {
+	margin-left: 750px;
+        margin-top: 1px;
+        text-align: center;
+	padding: 20px;
 }
